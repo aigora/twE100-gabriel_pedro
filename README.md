@@ -1,11 +1,11 @@
-# Título del trabajo
+# Juego del ahorcado
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Es el juego del ahorcado, tiene palabras desde 4 a 12 letras las cuales puedes elegir 
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+gabriel perez cano(54791, usuario:gabrielperezcano) y Pedro lopez ortiz
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Un juego entretenido para juagr cuando estes aburrido de forma facil y sencilla
